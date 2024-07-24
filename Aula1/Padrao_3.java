@@ -1,3 +1,4 @@
+package Aula1;
 public class Padrao_3 {
     
     public static void main(String[] args) {
